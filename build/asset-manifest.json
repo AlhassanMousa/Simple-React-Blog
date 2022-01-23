@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Simple-React-Blog/static/css/main.c276613a.chunk.css",
+    "main.js": "/Simple-React-Blog/static/js/main.079462bc.chunk.js",
+    "main.js.map": "/Simple-React-Blog/static/js/main.079462bc.chunk.js.map",
+    "runtime-main.js": "/Simple-React-Blog/static/js/runtime-main.d5a851b7.js",
+    "runtime-main.js.map": "/Simple-React-Blog/static/js/runtime-main.d5a851b7.js.map",
+    "static/js/2.e0449b31.chunk.js": "/Simple-React-Blog/static/js/2.e0449b31.chunk.js",
+    "static/js/2.e0449b31.chunk.js.map": "/Simple-React-Blog/static/js/2.e0449b31.chunk.js.map",
+    "index.html": "/Simple-React-Blog/index.html",
+    "static/css/main.c276613a.chunk.css.map": "/Simple-React-Blog/static/css/main.c276613a.chunk.css.map",
+    "static/js/2.e0449b31.chunk.js.LICENSE.txt": "/Simple-React-Blog/static/js/2.e0449b31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a851b7.js",
+    "static/js/2.e0449b31.chunk.js",
+    "static/css/main.c276613a.chunk.css",
+    "static/js/main.079462bc.chunk.js"
+  ]
+}
