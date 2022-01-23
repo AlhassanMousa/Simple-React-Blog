@@ -2,6 +2,7 @@
   "name": "simple-react-blog",
   "version": "0.1.0",
   "private": true,
+  "home":"https://alhassanmousa.github.io/",
  
   "dependencies": {
     "@chakra-ui/react": "^1.7.4",
