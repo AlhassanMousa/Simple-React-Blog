@@ -2,7 +2,7 @@
   "name": "simple-react-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AlhassanMousa.github.io/simple-react-blog",
+ 
   "dependencies": {
     "@chakra-ui/react": "^1.7.4",
     "@testing-library/jest-dom": "^5.11.4",
