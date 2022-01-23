@@ -1,2 +1,0 @@
-npx json-server --watch data/db.json --port 8000
-  //"homepage": "https://hassanmagdymousa.github.io/NinjaBlog";
